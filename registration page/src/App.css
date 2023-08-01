@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+ 
+
+  background: linear-gradient(to right, #b9a49b, #F5DEB3, #F5F5DC);
+
+   
+} 
+
+
+
+
+
+
